@@ -37,7 +37,7 @@
         --text-color: hsl(43, 26%, 26%);
     }
     
-    .tabby {
+    .container {
         max-width: 45em;
         margin: auto;
     }
