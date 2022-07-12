@@ -13,5 +13,9 @@ This is a tabbed component that shows some information about different classes f
 https://thatgirldorian.github.io/fitness-tabbed-component/
 
 
-<h3>Screenshot:</h3>
+<h3>Screenshot/video:</h3>
+
+https://user-images.githubusercontent.com/40691059/178599770-105c8e1b-2501-4605-9bd9-12e228acd543.mov
+
+
 
