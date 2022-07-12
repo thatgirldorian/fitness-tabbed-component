@@ -1,5 +1,3 @@
-//Make the tabbing functional
-
 // Add event listeners to each tab
 const tabs = Array.from(document.querySelectorAll('.tab'))
 const tabContainer = document.querySelector('.container')
@@ -23,18 +21,3 @@ tabs.forEach((tab) => {
     })
 
 })
-
-
-
-
-
-
-// Find the corresponding tab content
-
-// Remove is-selected from other tabs to de-emphasize them
-
-// Remove is-selected from other tab content to hide them
-
-// Add is-selected to the tab they clicked to emphasize it
-
-// Add is-selected to the tab content to show it
